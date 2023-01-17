@@ -1,5 +1,6 @@
-![](https://github.com/arif013/arif013/blob/main/arif013.png)
+
 <div align='center'>
+  <img height='100' src='![](https://github.com/arif013/arif013/blob/main/arif013.png)'>
   <h1> Frontend web developer </h1>
 </div>
 
