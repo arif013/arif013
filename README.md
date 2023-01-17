@@ -1,6 +1,6 @@
 ![](https://github.com/arif013/arif013/blob/main/arif013.png)
-<div class='center'>
-  <h1>- Frontend web developer </h1>
+<div align='center'>
+  <h1> Frontend web developer </h1>
 </div>
 
 ## 3D website enthusiast
