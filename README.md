@@ -1,6 +1,6 @@
 
 <div align='center'>
-  <img height='100' src="https://github.com/arif013/arif013/blob/main/arif013.png?raw=true">
+  <img height='100' src="https://github.com/arif013/arif013/blob/main/images/arif013.png?raw=true">
   <h1> Frontend web developer </h1>
 </div>
 
