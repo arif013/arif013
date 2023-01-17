@@ -11,8 +11,8 @@
 <code><img height="35" src="https://github.com/arif013/arif013/blob/main/images/html5-logo.png?raw=true"></code>
 <code><img height="35" src="https://github.com/arif013/arif013/blob/main/images/css-logo.png?raw=true"></code>
 <code><img height="35" src="https://github.com/arif013/arif013/blob/main/images/js-logo.png?raw=true"></code>
-<code><img height="35" src="https://github.com/arif013/arif013/blob/main/react-logo.png?raw=true"></code>
-<code><img height="35" src="https://github.com/arif013/arif013/blob/main/threejs-logo.png?raw=true"></code>
+<code><img height="35" src="https://github.com/arif013/arif013/blob/main/images/react-logo.png?raw=true"></code>
+<code><img height="35" src="https://github.com/arif013/arif013/blob/main/images/threejs-logo.png?raw=true"></code>
 <!--
 **arif013/arif013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
