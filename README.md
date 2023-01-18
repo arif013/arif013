@@ -6,6 +6,7 @@
 
 - 😍 3D website enthusiast
 - 🔥 Javascript geek
+- UI-UX (Figma)
 
 ### Tech Stack
 <code><img height="40" src="https://github.com/arif013/arif013/blob/main/images/html5-logo.png?raw=true"></code>
