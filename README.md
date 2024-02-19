@@ -1,11 +1,11 @@
 
 <div align='center'>
   <img height='100' src="https://github.com/arif013/arif013/blob/main/images/arif013.png?raw=true">
-  <h1> Frontend web developer </h1>
+  <h1> Full Stack web developer </h1>
 </div>
 
-- 😍 3D website enthusiast
 - 🔥 Javascript geek
+- 😍 3D website enthusiast
 - UI-UX (Figma)
 
 ### Tech Stack
