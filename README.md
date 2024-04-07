@@ -15,6 +15,7 @@
   Experience: ["1+ years of experience"]
   Specialization: ["MernStack","FullStack","Unix","Open Source Development","API Development","Bash Scripting"]
 ```
+
 - 🔥 Javascript geek
 - 😍 3D website enthusiast
 - UI-UX (Figma)
