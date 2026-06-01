@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+i+am+Arif%2C+a+FullStack+Developer;having+3++years+of+experience.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+i+am+Arif%2C+a+FullStack+Developer;having+3.4++years+of+experience.)](https://git.io/typing-svg)
 
 ```css
 ❯ mefetch
